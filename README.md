@@ -4,7 +4,8 @@
 
 ### TODO: 
 
--Edit report, reupload report
+-Edit and reupload report
+
 -Clean up pre-processing file
 
 ### Abstract:
